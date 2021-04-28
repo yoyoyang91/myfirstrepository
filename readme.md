@@ -1,6 +1,6 @@
 ## Hello world. I am super excited 
 
-Hi, my name is Yoyo, from city university of Hong Kong
+Hi, my name is Yoyo, from City University of Hong Kong
 
 Now I am taking J124 data Journalism from UC Berkeley. here is my [LinkedIn](https://www.linkedin.com/in/zihong-yang-993b63191/) 
 
@@ -17,8 +17,8 @@ Food that I like:
 3. Hotpot
 4. Fried chicken 
 
-The City I lived 
-| City Name | Duration|
+The Cities I lived 
+| Location  | Duration|
 |-----------|---------|
 | Nanning   | 18 years|
 | Hong Kong | 4 years |
